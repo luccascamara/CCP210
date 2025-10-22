@@ -1,0 +1,1 @@
+Códigos desenvolvidos na disciplina CCP210 – Introdução à Computação, do curso de Engenharia de Robôs no Centro Universitário FEI. Nessa disciplina, realizamos diversos programas em linguagem Python, voltados para a resolução de problemas matemáticos.
